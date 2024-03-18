@@ -1,0 +1,27 @@
+ digraph G {
+ "Nodofd6ca9a4-292c-42f0-5af0-3eddab6fba52"[label = "           8 "]
+ "Nodofd6ca9a4-292c-42f0-5af0-3eddab6fba52"->"Nodoe4b2cb88-9a31-48d7-770c-d705cdb89ebd"
+ "Nodofd6ca9a4-292c-42f0-5af0-3eddab6fba52"->"Nodo7986e7fd-b08e-44dd-5689-6c02bff9d5a0"
+ "Nodoe4b2cb88-9a31-48d7-770c-d705cdb89ebd"[label = "           1 "]
+ "Nodoe4b2cb88-9a31-48d7-770c-d705cdb89ebd"->"Nodod1287e6a-3bef-4a7f-5c66-ac5b9dfffa96"
+ "Nodoe4b2cb88-9a31-48d7-770c-d705cdb89ebd"->"Nodofbf8cc46-0d9f-45ff-4dd9-06b7fecf7b38"
+ "Nodod1287e6a-3bef-4a7f-5c66-ac5b9dfffa96"[label = "           0 "]
+ "Nodofbf8cc46-0d9f-45ff-4dd9-06b7fecf7b38"[label = "           5 "]
+ "Nodofbf8cc46-0d9f-45ff-4dd9-06b7fecf7b38"->"Nodof5cae821-f358-4c11-7edc-7d977dfb5525"
+ "Nodofbf8cc46-0d9f-45ff-4dd9-06b7fecf7b38"->"Nodo785fbbbc-6bd5-4275-6d68-9946ffbd4a6c"
+ "Nodof5cae821-f358-4c11-7edc-7d977dfb5525"[label = "           3 "]
+ "Nodo785fbbbc-6bd5-4275-6d68-9946ffbd4a6c"[label = "           7 "]
+ "Nodo7986e7fd-b08e-44dd-5689-6c02bff9d5a0"[label = "          30 "]
+ "Nodo7986e7fd-b08e-44dd-5689-6c02bff9d5a0"->"Nodocafc75ed-dda3-4d35-4388-de9abffa576d"
+ "Nodo7986e7fd-b08e-44dd-5689-6c02bff9d5a0"->"Nodo7abc5d58-2fde-4b2a-40b5-78507fff24a4"
+ "Nodocafc75ed-dda3-4d35-4388-de9abffa576d"[label = "          20 "]
+ "Nodocafc75ed-dda3-4d35-4388-de9abffa576d"->"Nodof6e78ce0-c5bf-4813-44fe-4b8adffbaf8e"
+ "Nodocafc75ed-dda3-4d35-4388-de9abffa576d"->"Nodobb5a0b59-0287-4003-5b2e-3c3bfdc7bb11"
+ "Nodof6e78ce0-c5bf-4813-44fe-4b8adffbaf8e"[label = "          15 "]
+ "Nodobb5a0b59-0287-4003-5b2e-3c3bfdc7bb11"[label = "          26 "]
+ "Nodobb5a0b59-0287-4003-5b2e-3c3bfdc7bb11"->"Nodofa38cb20-9e66-4e6d-6361-1064de5e35c6"
+ "Nodofa38cb20-9e66-4e6d-6361-1064de5e35c6"[label = "          21 "]
+ "Nodo7abc5d58-2fde-4b2a-40b5-78507fff24a4"[label = "          48 "]
+ "Nodo7abc5d58-2fde-4b2a-40b5-78507fff24a4"->"Nodofb95a6c7-511a-4922-40cc-f1e8bcfe2d4e"
+ "Nodofb95a6c7-511a-4922-40cc-f1e8bcfe2d4e"[label = "          60 "]
+ }
