@@ -1,0 +1,21 @@
+{
+  "INDEX": 0,
+  "NONCE": 4560,
+  "DATA": [
+    {
+      "sucursal_0": "s1",
+      "direccion_0": "5ta ave Guatemala",
+      "sucursal_1": "s2",
+      "direccion_1": "4ta ave Guatemala",
+      "total": 200
+    },
+    {
+      "sucursal_1": "s2",
+      "direccion_1": "5ta ave Guatemala",
+      "sucursal_2": "s3",
+      "direccion_2": "4ta ave Guatemala",
+      "total": 200
+    }
+  ],
+  "TIMESTAMP": "2021-06-01 12:00:00"
+}
